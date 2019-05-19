@@ -11,7 +11,7 @@ In diesem Projekt werden wir über das Thema "Ethical "Hacking oder auf deutsch 
 Für diese Ausarbeitung verwenden wir das generische Maskulinum.
 ## 2. Was ist "Hacking"?
 Der Begriff "Hacken" hat viele verschiedene Definitionen. Für die Einen ist es das schnelle, unschöne Lösen eines Problems, für Andere das Zweckentfremden  eines Gerätes zur Durchführung anderer Aufgaben. Wir nutzen für unsere Ausarbeitung folgende Definition:
-> Ein ***Hack*** ist ein nicht vorhergesehener Weg, in ein System einzubrechen, Daten zu **verändern**, zu **manipulieren** oder zu **zerstören**.  
+> Ein ***Hack*** ist ein nicht vorhergesehener Weg, in ein System einzubrechen, Daten zu **verändern**, zu **manipulieren** oder zu **zerstören**.
 > Somit ist ***Hacking*** die Suche nach ***Hacks*** und ein ***Hacker*** die Person, die sich damit beschäftigt.
 ### 2.1 Was ist "Ethical Hacking"?
 Mit ***Ethical Hacking*** ist das suchen nach ***Hacks*** aus ethischen Gründen gemeint. Die Hacker-Community hat immer wieder eigene Ethik-Regeln aufgestellt an diese sie sich halten. Zum anderen müssen sich Hacker an geltendes Recht halten.
@@ -28,4 +28,24 @@ Gray hats nehmen es nicht ganz so genau mit den Regeln, verfolgen aber höhere Z
 Diese Menschen hacken für ihren eigenen Profit. Dabei überschreiten sie ganz beabsichtigt Grenzen. Diese sind etwa gesetzliche oder moralische Grenzen. Dabei ist aber nicht zu vergessen, dass diese Hacker auch einem ethischen Kodex verfolgen, obwohl diese manchmal nicht ganz erkennbar sind. Sie erpressen Firmen gerne oder zocken Gelder ab, trotzdem lassen diese in den meisten Fällen auch Ziele aus wie Krankenhäuser.
 Blackhats  nutzen also ihr Hacking-Wissen gezielt zu kriminellen Aktivitäten.
 
-## 6.XXX
+## 6.Sind Grayhats Ethisch vertretbar?
+* Durch einen erfolgreichen Angriff können an sensible Daten Eingriffe erfolgen
+* Der Angegriffene wurde vorher nicht um erlaubnis gefragt
+* Im Allgemeinen wird dem Betroffenen keinen Schaden zugeführt
+* Bösartige Hacker können durch diese Vorstufe sich "schützen"
+* Das Thema Daten- und IT-Sicherheit gerät mehr in Fokus der Öffentlichkeit
+* Themen für Hacktalks bei Conventions
+* Für den Angegriffenen kann es durch den erfolgreichen Angriff zu einem Rufverlust kommen
+* Wenn regelmäßig Schwachstellen gefunden werden, sinkt der Ruf des Unternehmens
+* Ruf des Angreifers steigt durch finden der Sicherheitslücken
+* Möglichkeit eines Jobangebots oder andere Persönliche bereicherung
+* Durch frühzeitige Erkennung von Schwachstellen haben Unternehmen die Möglichkeit größere Schäden zu verhindern.
+* Unternehmen sind faul und wollen Geld ohne Arbeit. Durch Funde von Schwachstellen müssen sie arbeiten
+* Angegriffener wird zum beheben des Problems gezwungen
+* Angriff von fremden Eigentum
+* Der Angriff ohne Erlaubnis des Angegriffenen ist eine Straftat
+* Schwachstellen werden erkannt und Betroffener wird informiert.
+* Durch Melden der schwachstellen  entsteht mehrarbeit bei den betroffenen
+* Unternehmen werden gezwungen ihre Schwachstellen zu beheben, was zu sichereren Systemen oder Anwendungen führt.
+* Der Angreifer droht dem Betroffenem (Strafttat)
+* Angriffe stören evtl. den Betrieb und deren Abläufe
