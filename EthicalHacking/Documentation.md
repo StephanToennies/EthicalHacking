@@ -8,9 +8,10 @@ von Stephan Tönnies & xxx
    3. White Hats
    4. Grey Hats
    5. BlackHats
-3. Die Beweggründe eines Gray Hats
+3. Black Hat ist nicht gleich Black Hat
+4. Die Beweggründe eines Gray Hats
 
-4. //Sind Grayhats Ethisch vertretbar?
+x. //Sind Grayhats Ethisch vertretbar?
 
 ## 1. Einführung
 In diesem Projekt werden wir über das Thema "Ethical "Hacking oder auf
@@ -122,7 +123,32 @@ Hackern das Leben schwer. Dadurch haben Hacker auserhalb der Informatik
 einen so schlechten Ruf, dass sie ihr Hobby in aller Regeln nicht
 preisgeben.
 
-## 3. Die Beweggründe eines Gray Hats
+## 3. Black Hat ist nicht gleich Black Hat
+Black Hats zeichnen sich durch seine Profitgier bezüglich Angriffen aus.
+Dabei unterscheidensich diese Angriffe fundermental von einander. Viele
+Blach Hats nehmen gezielt Unternehmen in angriff. Manche spezialisieren
+sich für den Betrug von Zivilisten und manche machen eine
+Auftragsarbeit. Jeder von denen arbeit nach seinem individuellen Kodex.
+Viele Auftragshacker lehnen es ab große Persönlichkeiten zu hacken oder
+Hilfsorganisationen.
+
+Ein andere unbeliebte Ziele von Black Hats sind Krankenhäuser. An diesen
+Orten können vermeintlich Unschuldige getroffen oder schlimmstenfalls
+getötet werden. Wenn zum Beispiel ein "Crypto Trojana" (Ein Programm,
+was den Rechner unwiederruflich Verschlüsselt und nicht mehr brauchbar
+macht) ein Krankenhaus infiziert sind diese dem Angriff aussichtslos
+ausgeliefert. Dies ist keine Fiktion, sondern in Deutschland passiert.
+Nicht nur ein mal, sondern 45 Krankenhäuser und Artzpraxen. Die meisten
+Black Hats lehnen so ein Vorgehen ab, dabei sind solche Opfer am
+einfachsten zu Erpressen. Diese Angriffe fanden im Zeitraum mitte 2017
+statt. Zu tragen kam der Trojaner "WannaCry". Diese Angriffe wurden aber
+auch von vielen Betrügern verurteilt. Es ist zwar deren Geschäft
+Menschen zu erpressen, aber sie wollen damit niemanden körperlich
+Schaden.
+
+//***Hier könnte Ihr Beispiel stehen***
+
+## 4. Die Beweggründe eines Gray Hats
 Die meisten Gray Hats gehen ihre aufgaben als Hobby nach. Dabei werden
 diese von moralischen und ethischen Werten getrieben. Diese sind
 fundermental Unterschiedlich. Desswegen kann in dieser Ausarbeitung nur
@@ -150,30 +176,14 @@ kommt steht dieser noch als Verweigerer da. Von solchen Zielen kommen
 meist alle nicht gut von weg, da der Hacker nicht die Sicherheit erhöt
 hat und das Unternehmen ein Rufferlust erleidet.
 
+//Politischer Aktivismus
+
+Manche Gray Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Robriken aufteilen. Eine dieser Robriken sind Whistleblower. Diese Menschen haben sensible informationen Veröffentlicht, die nicht für die Allgemeinheit gedacht waren. Natürlich nur die Informationen, die vermeintlich eine große Bedeutung für die Öffentlichkeit haben. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich Ethisches. ...
+
+//TODO 
+
 //***Hier könnte Ihr Beispiel stehen***
 
-## Black Hat ist nicht gleich Black Hat
-Black Hats zeichnen sich durch seine Profitgier bezüglich Angriffen aus.
-Dabei unterscheidensich diese Angriffe fundermental von einander. Viele
-Blach Hats nehmen gezielt Unternehmen in angriff. Manche spezialisieren
-sich für den Betrug von Zivilisten und manche machen eine
-Auftragsarbeit. Jeder von denen arbeit nach seinem individuellen Kodex.
-Viele Auftragshacker lehnen es ab große Persönlichkeiten zu hacken oder
-Hilfsorganisationen.
-
-Ein andere unbeliebte Ziele von Black Hats sind Krankenhäuser. An diesen
-Orten können vermeintlich Unschuldige getroffen oder schlimmstenfalls
-getötet werden. Wenn zum Beispiel ein "Crypto Trojana" (Ein Programm,
-was den Rechner unwiederruflich Verschlüsselt und nicht mehr brachbar
-macht) ein Krankenhaus infiziert sind diese dem Angriff aussichtslos
-ausgeliefert. Dies ist keine Fiktion, sondern in Deutschland passiert.
-Nicht nur ein mal, sondern 45 Krankenhäuser und Artzpraxen. Die meisten
-Black Hats lehnen so ein Vorgehen ab, dabei sind solche Opfer am
-einfachsten zu Erpressen. Diese Angriffe fanden im Zeitraum mitte 2017
-statt. Zu tragen kam der Trojaner "WannaCry". Diese Angriffe wurden aber
-auch von vielen Betrügern verurteilt. Es ist zwar deren Geschäft
-Menschen zu erpressen, aber sie wollen damit niemanden körperlich
-Schaden.
 
 ## //Stichpunkte Pro Gray Hats
 * Durch einen erfolgreichen Angriff können an sensible Daten Eingriffe 
