@@ -114,12 +114,13 @@ sind. Sie erpressen Firmen gerne oder zocken Gelder ab. Der Großteil
 greifen in den meisten Fällen keine Ziele wie Krankenhäuser an. Black
 Hats nutzen also ihr Hacking-Wissen gezielt zu kriminelle Aktivitäten. 
 
-In den Medien berichtet man meist von den Black Hats oder macht Gray
-Hats zu Black Hats. Daher haben Hacker im allgemeinen einen miserablen
-Ruf, obwohl die allermeisten sich an die "Regeln" halten. Durch die in
-den Medien überpresente Gruppe machen sie den normalen Hackern das Leben
-schwer. Dadurch haben Hacker auserhalb der Informatik einen so
-schlechten Ruf, dass sie ihr Hobby in aller Regeln nicht preisgeben.
+In den Medien berichtet man meist von den Black Hats oder stellt Gray
+Hats als Black Hats da. Daher haben Hacker im Allgemeinen einen
+miserablen Ruf, obwohl die allermeisten sich an die "Regeln" halten.
+Durch die in den Medien überpresente Gruppe machen sie den normalen
+Hackern das Leben schwer. Dadurch haben Hacker auserhalb der Informatik
+einen so schlechten Ruf, dass sie ihr Hobby in aller Regeln nicht
+preisgeben.
 
 ## 3. Die Beweggründe eines Gray Hats
 Die meisten Gray Hats gehen ihre aufgaben als Hobby nach. Dabei werden
@@ -150,6 +151,29 @@ meist alle nicht gut von weg, da der Hacker nicht die Sicherheit erhöt
 hat und das Unternehmen ein Rufferlust erleidet.
 
 //***Hier könnte Ihr Beispiel stehen***
+
+## Black Hat ist nicht gleich Black Hat
+Black Hats zeichnen sich durch seine Profitgier bezüglich Angriffen aus.
+Dabei unterscheidensich diese Angriffe fundermental von einander. Viele
+Blach Hats nehmen gezielt Unternehmen in angriff. Manche spezialisieren
+sich für den Betrug von Zivilisten und manche machen eine
+Auftragsarbeit. Jeder von denen arbeit nach seinem individuellen Kodex.
+Viele Auftragshacker lehnen es ab große Persönlichkeiten zu hacken oder
+Hilfsorganisationen.
+
+Ein andere unbeliebte Ziele von Black Hats sind Krankenhäuser. An diesen
+Orten können vermeintlich Unschuldige getroffen oder schlimmstenfalls
+getötet werden. Wenn zum Beispiel ein "Crypto Trojana" (Ein Programm,
+was den Rechner unwiederruflich Verschlüsselt und nicht mehr brachbar
+macht) ein Krankenhaus infiziert sind diese dem Angriff aussichtslos
+ausgeliefert. Dies ist keine Fiktion, sondern in Deutschland passiert.
+Nicht nur ein mal, sondern 45 Krankenhäuser und Artzpraxen. Die meisten
+Black Hats lehnen so ein Vorgehen ab, dabei sind solche Opfer am
+einfachsten zu Erpressen. Diese Angriffe fanden im Zeitraum mitte 2017
+statt. Zu tragen kam der Trojaner "WannaCry". Diese Angriffe wurden aber
+auch von vielen Betrügern verurteilt. Es ist zwar deren Geschäft
+Menschen zu erpressen, aber sie wollen damit niemanden körperlich
+Schaden.
 
 ## //Stichpunkte Pro Gray Hats
 * Durch einen erfolgreichen Angriff können an sensible Daten Eingriffe 
