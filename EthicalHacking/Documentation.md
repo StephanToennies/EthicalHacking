@@ -9,9 +9,9 @@ von Stephan Tönnies & xxx
    4. Grey Hats
    5. BlackHats
 3. Black Hat ist nicht gleich Black Hat
-4. Die Beweggründe eines Gray Hats
+4. Die Beweggründe eines grey Hats
 
-x. //Sind Grayhats Ethisch vertretbar?
+x. //Sind greyhats Ethisch vertretbar?
 
 ## 1. Einführung
 In diesem Projekt werden wir über das Thema "Ethical "Hacking oder auf
@@ -29,8 +29,8 @@ nutzen für unsere Ausarbeitung folgende Definition:
 > **zerstören**. Somit ist ***Hacking*** die Suche nach ***Hacks*** und
 > ein ***Hacker*** die Person, die sich damit beschäftigt.
 
-Genauer spzifiziert meinen wir die Nutzung eines Rechners, um in ein
-Netzwerk oder einen Einzelrechnereinzudringen. Dabei können Eigenheiten
+Genauer spezifiziert meinen wir die Nutzung eines Rechners, um in ein
+Netzwerk oder einen Einzelrechner einzudringen. Dabei können Eigenheiten
 und Entfremdungen von Komponenten im System ein Weg in ein System sein.
 Diese Nutzung von Rechnern ist nicht im Sinne des Erfinders und damit
 ein ***Hack***.
@@ -94,14 +94,14 @@ Diese Hacker arbeiten im Gegensatz zu den "white hats" nicht erst auf
 Auftrag, sondern sie suchen sich ihre Arbeit selbst. Wenn z.B ein neuer
 Hack oder eine neue Schwachstelle entdeckt und veröffentlicht wurde,
 suchen sie nach Systemen, die betroffen sein könnten um die evtl. auf
-Dauer vor größeren Schäden schützen zu könnten. Gray Hats nehmen es
+Dauer vor größeren Schäden schützen zu könnten. Grey Hats nehmen es
 nicht ganz so genau mit den Regeln, verfolgen aber höhere Ziele- z.B die
 Verbesserung der Gesellschaft oder ein verantwortungsvollerer Umgang mit
 der Technik.
 
-Im allgemeinen ist zu sagen, dass der überwiegende Teil der Hacker Gray
-Hats sind, da die Welt nicht nur Schwarz und Weiß ist. Im allgemeinen
-sind die meisten Grau oder könnten zumindest dem zugeordnet werden. Die
+Im allgemeinen ist zu sagen, dass der überwiegende Teil der Hacker grey
+hats sind, da die Welt nicht nur Schwarz und Weiß ist. Im Allgemeinen
+sind die meisten Hacker grey hats oder könnten zumindest dem zugeordnet werden. Die
 in Kapitel 2.v beschriebenen "Black Hats" könnten auch Teilweise dieser
 Gruppierung zugeordnet werden, da diese möglicherweise auch ein höheres
 Ziel nachgehen.
@@ -115,7 +115,7 @@ sind. Sie erpressen Firmen gerne oder zocken Gelder ab. Der Großteil
 greifen in den meisten Fällen keine Ziele wie Krankenhäuser an. Black
 Hats nutzen also ihr Hacking-Wissen gezielt zu kriminelle Aktivitäten. 
 
-In den Medien berichtet man meist von den Black Hats oder stellt Gray
+In den Medien berichtet man meist von den Black Hats oder stellt grey
 Hats als Black Hats da. Daher haben Hacker im Allgemeinen einen
 miserablen Ruf, obwohl die allermeisten sich an die "Regeln" halten.
 Durch die in den Medien überpresente Gruppe machen sie den normalen
@@ -134,7 +134,7 @@ Hilfsorganisationen.
 
 Ein andere unbeliebte Ziele von Black Hats sind Krankenhäuser. An diesen
 Orten können vermeintlich Unschuldige getroffen oder schlimmstenfalls
-getötet werden. Wenn zum Beispiel ein "Crypto Trojana" (Ein Programm,
+getötet werden. Wenn zum Beispiel ein "Crypto Trojaner" (Ein Programm,
 was den Rechner unwiederruflich Verschlüsselt und nicht mehr brauchbar
 macht) ein Krankenhaus infiziert sind diese dem Angriff aussichtslos
 ausgeliefert. Dies ist keine Fiktion, sondern in Deutschland passiert.
@@ -148,44 +148,61 @@ Schaden.
 
 //***Hier könnte Ihr Beispiel stehen***
 
-## 4. Die Beweggründe eines Gray Hats
-Die meisten Gray Hats gehen ihre aufgaben als Hobby nach. Dabei werden
+## 4. Die Beweggründe eines Grey Hats
+Die meisten grey Hats gehen ihren Aufgaben als Hobby nach. Dabei werden
 diese von moralischen und ethischen Werten getrieben. Diese sind
-fundermental Unterschiedlich. Desswegen kann in dieser Ausarbeitung nur
+fundermental Unterschiedlich. Deswegen kann in dieser Ausarbeitung nur
 ein Bruchteil der Ideale vermittelt werden, an die diese Menschen
-glaueben.
+glauben.
 
-Manche wollen epfindliche Systeme schützen, wie zum Beispiel das
+Manche wollen empfindliche Systeme schützen, wie zum Beispiel das
 Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter
 Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch
-nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene
-Provisioren, die immer noch im Betrieb sind. Diese Sicherheitslücken
-müssen dabei nicht mutwillig entstanden sein, sonder aus einem Reflex
-der Überfrderung kommen, da kleine und mitlere Kraftwerkbetreiber wie
-Photovoteiganlagen oder kleinere Stadtwerke sich nicht die Kompetenz
-leisten können. Zum Beispiel solche Firmen gelten als gute "Klienten",
-da diese massive Sicherheitsprobleme haben. Die Gray Hats legen in den
-meisten fällen diesen Betreibern die Schwachstellen offen. Das Problem
-bei der ganzen sache bleibt aber immernoch, dass selbst bei der
+Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene
+Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken
+müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex
+der Überforderung kommen, da kleine und mittlere Kraftwerkbetreiber wie
+Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz
+leisten können. 
+
+Solche Firmen gelten zum Beispiel als gute "Klienten",
+da diese massive Sicherheitsprobleme haben. Die grey Hats legen in den
+meisten Fällen diesen Betreibern die Schwachstellen offen. Das Problem
+bei der ganzen Sache bleibt aber immer noch, dass selbst bei der
 Auflegung und der eventuellen Erpressung dieser Unternehmen ihre
 Schwachstellen nicht beseitigen können. Dabei sind diese dann ein
 Spielball eines Hobbyhackers. Der Hacker möchte nur das Beste für den
-Betreiber und der Betreiber kann dem nach hachkommen. Wenn soweas
-Öffentlich wird, dass der Betreiber seinen Auflagen nicht hinterher
+Betreiber und der Betreiber kann dem nicht nachkommen. Wenn soetwas
+öffentlich wird, dass der Betreiber seinen Auflagen nicht hinterher
 kommt steht dieser noch als Verweigerer da. Von solchen Zielen kommen
 meist alle nicht gut von weg, da der Hacker nicht die Sicherheit erhöt
-hat und das Unternehmen ein Rufferlust erleidet.
+hat und das Unternehmen ein Rufverlust erleidet.
 
-//Politischer Aktivismus
+*__Politischer Aktivismus__*
 
-Manche Gray Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Robriken aufteilen. Eine dieser Robriken sind Whistleblower. Diese Menschen haben sensible informationen Veröffentlicht, die nicht für die Allgemeinheit gedacht waren. Natürlich nur die Informationen, die vermeintlich eine große Bedeutung für die Öffentlichkeit haben. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich Ethisches. ...
+Manche grey Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Rubriken aufteilen. 
+
+Eine dieser Rubriken sind **Whistleblower**. Diese Menschen veröffentlichen potenziell sensible Informationen, die nicht für die Allgemeinheit gedacht sind. Natürlich nur die Informationen, deren Veröffentlichung vermeintlich eine große Bedeutung für die Öffentlichkeit haben, zum Beispiel weil es erhebliche Ungerechtigkeiten gibt. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich Ethisches, da auch sie auf Missstände hinweisen. 
+
+*__Hacktivismus__*
+
+**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus.
+
+**Hacktivisten** nutzen Computer und Computernetzwerke als Mittel zum Protest gegen politische Ungerechtigkeiten. Dabei gibt es verschiedene Arten des Protestes. Eine der ersten Methoden waren sogenannte **"black faxes"**. Dabei werden komplett schwarze Seiten per Fax versendet. Dies blockiert die Telefonleitungen und verbraucht die Druckerpatronen oder -toner und schadet dem Angegriffenen Materiell....
+Weitere verbreitete Methoden sind **DDoS-Attacken** oder auch **E-Mail-Bomben**.
+
+Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server oder Rechner des Opfers mit Anfragen überflutet, so dass diese überlastet sind und auf die gewöhnlichen Anfragen nicht Antworten können und z.B Webseiten nicht mehr erreichbar sind. Dies ist ein häufig genutztes Protestmittel gegen Unternehmen oder politische Webseiten.
+
+**E-Mail-Bomben** folgen dem selben Prinzip. Hierbei werden die Mail-Postfächr mit vielen Mails geflutet. meist haben diese auch noch große Anhänge, die die Rechner und Server ebenfalls verlangsamen. 
+
+
 
 //TODO 
 
 //***Hier könnte Ihr Beispiel stehen***
 
 
-## //Stichpunkte Pro Gray Hats
+## //Stichpunkte Pro grey Hats
 * Durch einen erfolgreichen Angriff können an sensible Daten Eingriffe 
   erfolgen
 * Der Angegriffene wurde vorher nicht um erlaubnis gefragt
