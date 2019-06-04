@@ -15,6 +15,9 @@ von Stephan Tönnies & xxx
       1. Whistleblower
       2. Proteste mit erweiterten Mitteln
 
+98. Fazit
+    1. Stephan Tönnies
+    2. xxx  
 99. Anmerkungen
     1. Was Hacker gerne übersehen
 
@@ -201,6 +204,16 @@ Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server
 **E-Mail-Bomben** folgen dem selben Prinzip. Hierbei werden die Mail-Postfächr mit vielen Mails geflutet. meist haben diese auch noch große Anhänge, die die Rechner und Server ebenfalls verlangsamen. 
 
 //TODO 
+## XX-1 Fazit
+
+### i. Stephan Tönnies
+
+Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuweisen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten? Ist zum Beispiell ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese desswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
+
+Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und desshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheimd- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheimd- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
+
+### ii. xxx
+blablabla
 
 ## XX Anmerkungen
 
