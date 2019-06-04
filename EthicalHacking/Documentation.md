@@ -10,6 +10,13 @@ von Stephan Tönnies & xxx
    5. BlackHats
 3. Black Hat ist nicht gleich Black Hat
 4. Die Beweggründe eines grey Hats
+   1. Utopia: "Perfekte Sicherheit" 
+   2. Hacktivismus
+      1. Whistleblower
+      2. Proteste mit erweiterten Mitteln
+
+99. Anmerkungen
+    1. Was Hacker gerne übersehen
 
 x. //Sind greyhats Ethisch vertretbar?
 
@@ -155,15 +162,11 @@ fundermental Unterschiedlich. Deswegen kann in dieser Ausarbeitung nur
 ein Bruchteil der Ideale vermittelt werden, an die diese Menschen
 glauben.
 
-Manche wollen empfindliche Systeme schützen, wie zum Beispiel das
-Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter
-Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch
-Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene
-Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken
-müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex
-der Überforderung kommen, da kleine und mittlere Kraftwerkbetreiber wie
-Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz
-leisten können. 
+### i Utopia: "Perfekte Sicherheit"
+
+Manche wollen empfindliche Systeme schützen. Der Zweck ist es eine Sichere Welt zu schaffen, wo alle Netzwerke absolut sicher sind du das Hacken damit unmöglich. Dadurch wären alle Netzwerke geschützt und könnten nicht für andere Zwecke misbraucht werden.
+
+Ein gutes Beispiel ist das Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex der Überforderung kommen, da kleine und mittlere Kraftwerkbetreiber wie Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz leisten können. 
 
 Solche Firmen gelten zum Beispiel als gute "Klienten",
 da diese massive Sicherheitsprobleme haben. Die grey Hats legen in den
@@ -178,26 +181,35 @@ kommt steht dieser noch als Verweigerer da. Von solchen Zielen kommen
 meist alle nicht gut von weg, da der Hacker nicht die Sicherheit erhöt
 hat und das Unternehmen ein Rufverlust erleidet.
 
-*__Politischer Aktivismus__*
+### ii. Hacktivismus
 
-Manche grey Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Rubriken aufteilen. 
+**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus. Manche grey Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Rubriken aufteilen. Eine allgemein bekannte Rubriken wollen wir jetzt etwas vorstellen. Diese Menschen nennen sich **Whistleblower**:
 
-Eine dieser Rubriken sind **Whistleblower**. Diese Menschen veröffentlichen potenziell sensible Informationen, die nicht für die Allgemeinheit gedacht sind. Natürlich nur die Informationen, deren Veröffentlichung vermeintlich eine große Bedeutung für die Öffentlichkeit haben, zum Beispiel weil es erhebliche Ungerechtigkeiten gibt. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich Ethisches, da auch sie auf Missstände hinweisen. 
+#### a. Whistleblower
 
-*__Hacktivismus__*
+ Diese Menschen veröffentlichen potenziell sensible Informationen, die nicht für die Allgemeinheit gedacht sind. Natürlich nur die Informationen, deren Veröffentlichung vermeintlich eine große Bedeutung für die Öffentlichkeit haben, zum Beispiel weil es erhebliche Ungerechtigkeiten gibt. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich Ethisches, da auch sie auf Missstände hinweisen.
 
-**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus.
+Ein bekannter Whistleblower heißt Edward Snowden. Dieser Mann arbeitete für die CIA als Analyst. Dabei hat er mitbekommen, dass alle US-Bürger und Bürger aus anderen Ländern systematisch von Geheimdiensten wie NSA und CIA ausspioniert wurden. Als er seine Chefs auf diese Machenschaften ansprach waren diese eher zurückhaltend. Manche meinten er solle einfach den Mund halten und arbeiten ohne Fragen zu stellen (Dieses Vorgehen ist in Nachrichtendiensten üblich). Ab einen gewissen Punkt konnte er nicht mehr den Mund halten und hat die Beweise von den US-Servern gestohlen. Diese Daten veröffentlichte er dann auf der Platform "WikiLeaks". Daraufhin floh er aus den USA, da dieses Vorgehen dort als Straftat geahnded wird. Er ließ seine Familie und Kinder zurück zum Preis der Wahrheit.
 
-**Hacktivisten** nutzen Computer und Computernetzwerke als Mittel zum Protest gegen politische Ungerechtigkeiten. Dabei gibt es verschiedene Arten des Protestes. Eine der ersten Methoden waren sogenannte **"black faxes"**. Dabei werden komplett schwarze Seiten per Fax versendet. Dies blockiert die Telefonleitungen und verbraucht die Druckerpatronen oder -toner und schadet dem Angegriffenen Materiell....
+#### b. Proteste mit erweiterten Mitteln
+
+Hacktivisten nutzen Computer und Computernetzwerke als Mittel zum Protest gegen politische Ungerechtigkeiten. Dabei gibt es verschiedene Arten des Protestes. Eine der ersten Methoden waren sogenannte **"black faxes"**. Dabei werden komplett schwarze Seiten per Fax versendet. Dies blockiert die Telefonleitungen und verbraucht die Druckerpatronen oder -toner und schadet dem Angegriffenen Materiell....
 Weitere verbreitete Methoden sind **DDoS-Attacken** oder auch **E-Mail-Bomben**.
 
 Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server oder Rechner des Opfers mit Anfragen überflutet, so dass diese überlastet sind und auf die gewöhnlichen Anfragen nicht Antworten können und z.B Webseiten nicht mehr erreichbar sind. Dies ist ein häufig genutztes Protestmittel gegen Unternehmen oder politische Webseiten.
 
 **E-Mail-Bomben** folgen dem selben Prinzip. Hierbei werden die Mail-Postfächr mit vielen Mails geflutet. meist haben diese auch noch große Anhänge, die die Rechner und Server ebenfalls verlangsamen. 
 
-
-
 //TODO 
+
+## XX Anmerkungen
+
+### xx.1 Was Hacker gerne übersehen
+Viele Unterscheiden nicht zwischen Firmen und Privatpersonen. Dabei haben diese mehr Gemeinsamkeiten als es scheint. Manche meinen, dass es "nicht schlimm sei wenn ein Unternehmen ausgeraubt oder erpresst wird, denn das ist nur Geld. Dadurch kommt ja keiner zu Schaden." Diese Aussage würde wahrscheinlich von einem Black Hats kommen.
+
+Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatpersonen einfacher zu betrachten ist als bei einem Unternehmen. Ein Unternehmen ist als Konstrukt deutlich komplexer als ein einzelner Mensch, weil ein Unternehmen aus einer vielzahl von Menschen besteht. Dort fällt das Einzelschicksal eines einzelnen Mitarbeiters nicht wirklich auf. Bei einer Privatperson schon. Dieses Schicksal ist bei einer spiziellen Person deutlich effektiver wahrnehmbar.  
+ 
+
 
 //***Hier könnte Ihr Beispiel stehen***
 
