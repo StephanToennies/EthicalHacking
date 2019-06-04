@@ -189,7 +189,7 @@ hat und das Unternehmen ein Rufverlust erleidet.
 
  Diese Menschen veröffentlichen potenziell sensible Informationen, die nicht für die Allgemeinheit gedacht sind. Natürlich nur die Informationen, deren Veröffentlichung vermeintlich eine große Bedeutung für die Öffentlichkeit haben, zum Beispiel weil es erhebliche Ungerechtigkeiten gibt. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich Ethisches, da auch sie auf Missstände hinweisen.
 
-Ein bekannter Whistleblower heißt Edward Snowden. Dieser Mann arbeitete für die CIA als Analyst. Dabei hat er mitbekommen, dass alle US-Bürger und Bürger aus anderen Ländern systematisch von Geheimdiensten wie NSA und CIA ausspioniert wurden. Als er seine Chefs auf diese Machenschaften ansprach waren diese eher zurückhaltend. Manche meinten er solle einfach den Mund halten und arbeiten ohne Fragen zu stellen (Dieses Vorgehen ist in Nachrichtendiensten üblich). Ab einen gewissen Punkt konnte er nicht mehr den Mund halten und hat die Beweise von den US-Servern gestohlen. Diese Daten veröffentlichte er dann auf der Platform "WikiLeaks". Daraufhin floh er aus den USA, da dieses Vorgehen dort als Straftat geahnded wird. Er ließ seine Familie und Kinder zurück zum Preis der Wahrheit.
+Ein bekannter Whistleblower heißt Edward Snowden. Dieser Mann arbeitete für die CIA als Analyst. Dabei hat er mitbekommen, dass alle US-Bürger und Bürger aus anderen Ländern systematisch von Geheimdiensten wie NSA und CIA ausspioniert wurden. Als er seine Chefs auf diese Machenschaften ansprach waren diese eher zurückhaltend. Manche meinten er solle einfach den Mund halten und arbeiten ohne Fragen zu stellen (Dieses Vorgehen ist in Nachrichtendiensten üblich). Ab einen gewissen Punkt konnte er nicht mehr den Mund halten und hat die Beweise von den US-Servern gestohlen. Diese Daten veröffentlichte er dann auf der Platform "WikiLeaks". Daraufhin floh er aus den USA, da dieses Vorgehen dort als Straftat geahnded wird. Er ließ seine Familie und Kinder zurück zum Preis der Wahrheit. Um ehrlich zu sein war Herrn Snowden nicht ganz klar was er alles aufgeben musste.
 
 #### b. Proteste mit erweiterten Mitteln
 
@@ -207,7 +207,9 @@ Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server
 ### xx.1 Was Hacker gerne übersehen
 Viele Unterscheiden nicht zwischen Firmen und Privatpersonen. Dabei haben diese mehr Gemeinsamkeiten als es scheint. Manche meinen, dass es "nicht schlimm sei wenn ein Unternehmen ausgeraubt oder erpresst wird, denn das ist nur Geld. Dadurch kommt ja keiner zu Schaden." Diese Aussage würde wahrscheinlich von einem Black Hats kommen.
 
-Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatpersonen einfacher zu betrachten ist als bei einem Unternehmen. Ein Unternehmen ist als Konstrukt deutlich komplexer als ein einzelner Mensch, weil ein Unternehmen aus einer vielzahl von Menschen besteht. Dort fällt das Einzelschicksal eines einzelnen Mitarbeiters nicht wirklich auf. Bei einer Privatperson schon. Dieses Schicksal ist bei einer spiziellen Person deutlich effektiver wahrnehmbar.  
+Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatpersonen einfacher zu betrachten ist als bei einem Unternehmen. Ein Unternehmen ist als Konstrukt deutlich komplexer als ein einzelner Mensch, weil ein Unternehmen aus einer vielzahl von Menschen besteht. Dort fällt das Einzelschicksal eines einzelnen Mitarbeiters nicht wirklich auf. Bei einer Privatperson schon. Dieses Schicksal ist bei einer spiziellen Person deutlich effektiver wahrnehmbar.
+
+Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In dem Vortrag wurde angemerkt, dass ein solcher Verleich nicht korrekt sei, da ein Multimilionenkonzern nicht die gleichen Rechte und Emotionen habe.... //TODO
  
 
 
