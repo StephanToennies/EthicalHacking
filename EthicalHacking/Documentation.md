@@ -62,8 +62,8 @@ Form. Dabei gibt es Beispielsweise folgende Regeln:
   Angriffen generiert
 * Alle angriffe werden Aufgezeichnet und Dokumentiert 
 
-Diese Regeln sind ein Bruchtal derer, die jeder einzelne Mensch nutzt.
-Jeder hat diesbezüglich seine eigenen Regeln, aber im allgemeinen sind
+Diese Regeln sind ein Bruchteil derer, die jeder einzelne Mensch nutzt.
+Jeder hat diesbezüglich seine eigenen Regeln, aber im Allgemeinen sind
 die Regeln relativ gleich.
 
 Zuzüglich zu den moralischen Regel gibt es in Deutschland auch eine
@@ -80,11 +80,11 @@ eine Straftat darstellt.
 Dieser Begriff ist ebenfalls dem "Hacking" zugehörig. Diese Hacker
 greifen zwar Netzwerkarchitekturen an, aber diese sind genehmigt. Das
 heißt, sie haben die Erlaubnis der Firmen vorher eingeholt und ihre
-zuständigkeit ist vollumfänglich geklärt. Diese Angreifer führen genau
-Protokoll über diese Angriffe und melden den Unternehmen sämmtliche
+Zuständigkeit ist vollumfänglich geklärt. Diese Angreifer führen genau
+Protokoll über diese Angriffe und melden den Unternehmen sämtliche
 Schwachstellen. Das heißt sie wurden von den Firmen eingekauft und
 halten sich an ihre Verträge. In der Regel sind diese Personen
-selbständig und bieten diese Dienstleistungen öffentlich im Netz an.
+selbstständig und bieten diese Dienstleistungen öffentlich im Netz an.
 Damit vertreiben sie ein Gewerbe wie jeder andere Unternehmer auch.
 Durch diese Verträge und die Absprachen mit den Unternehmen ist dieser
 Prozess legal und kollidiert nicht mit den sogenannten
@@ -93,9 +93,9 @@ Hackerparagraphen.
 Diese Personen sind in der Regel Zertifiziert nach ***CEH*** (Certified
 Ethical Hacker) und bestätigen damit, dass sie nach einem festen und
 strengen Kodex ihre Tätigkeiten nachgehen. Dieses Zertifikat ist nur
-durch Fortbildungskurse erreichbar und gibt dami Sicherheit. Es wäre
-nicht für das Geschäft, wenn einen Verbrecher einkauft und ihm die
-Erlaubnis gibt Sie abzuzocken. Um vorsolche Vorfälle geschützt zu sein
+durch Fortbildungskurse erreichbar und gibt damit Sicherheit. Es wäre
+nicht gut für das Geschäft, wenn Sie einen Verbrecher einkaufen und ihm die
+Erlaubnis geben Sie abzuzocken. Um vor solchen Vorfälle geschützt zu sein
 wurde diese Zertifizierung ins Leben gerufen. Ganz geschützt ist man vor
 sowas zwar nicht, aber es erhöht die Sicherheit erheblich.
 
@@ -103,14 +103,14 @@ sowas zwar nicht, aber es erhöht die Sicherheit erheblich.
 Diese Hacker arbeiten im Gegensatz zu den "white hats" nicht erst auf
 Auftrag, sondern sie suchen sich ihre Arbeit selbst. Wenn z.B ein neuer
 Hack oder eine neue Schwachstelle entdeckt und veröffentlicht wurde,
-suchen sie nach Systemen, die betroffen sein könnten um die evtl. auf
-Dauer vor größeren Schäden schützen zu könnten. Grey Hats nehmen es
-nicht ganz so genau mit den Regeln, verfolgen aber höhere Ziele- z.B die
+suchen sie nach Systemen, die betroffen sein könnten um diese evtl. auf
+Dauer vor größeren Schäden schützen zu könnten. Es kann aber auch genau so passieren, dass sie zufällig über neue Sicherheitslücken stolpern. Wenn sie z.B beim surfen auf einer Seite landen, die sich bei "falscher" Nutzung ungewönlich verhält, was einen Hinweis auf unsaubere Umsetzung sein kann. Grey Hats sind von sehr neugierig und "spielen gerne herum", wenn sie solche Anzeichen finden. Grey Hats nehmen es
+nicht ganz so genau mit den Gesetzen, verfolgen aber höhere Ziele- z.B die
 Verbesserung der Gesellschaft oder ein verantwortungsvollerer Umgang mit
 der Technik.
 
-Im allgemeinen ist zu sagen, dass der überwiegende Teil der Hacker grey
-hats sind, da die Welt nicht nur Schwarz und Weiß ist. Im Allgemeinen
+Im Allgemeinen ist zu sagen, dass der überwiegende Teil der Hacker Grey
+Hats sind, da die Welt nicht nur Schwarz und Weiß ist. Im Allgemeinen
 sind die meisten Hacker grey hats oder könnten zumindest dem zugeordnet werden. Die
 in Kapitel 2.v beschriebenen "Black Hats" könnten auch Teilweise dieser
 Gruppierung zugeordnet werden, da diese möglicherweise auch ein höheres
@@ -118,11 +118,11 @@ Ziel nachgehen.
 
 ### v. Black Hats
 Diese Menschen hacken für ihren eigenen Profit. Dabei überschreiten sie
-ganz beabsichtigt Grenzen. Diese sind etwa gesetzliche oder moralische
+meist bewusst Grenzen. Diese sind etwa gesetzliche oder moralische
 Grenzen. Dabei ist aber nicht zu vergessen, dass diese Hacker auch einem
 ethischen Kodex verfolgen, obwohl diese manchmal nicht ganz erkennbar
-sind. Sie erpressen Firmen gerne oder zocken Gelder ab. Der Großteil
-greifen in den meisten Fällen keine Ziele wie Krankenhäuser an. Black
+sind, da sie ihren eigenen ethischen Kodex haben. Sie erpressen Firmen gerne oder zocken Gelder ab. Der Großteil
+greift in den meisten Fällen keine Ziele wie Krankenhäuser an. Black
 Hats nutzen also ihr Hacking-Wissen gezielt zu kriminelle Aktivitäten. 
 
 In den Medien berichtet man meist von den Black Hats oder stellt grey
@@ -134,26 +134,26 @@ einen so schlechten Ruf, dass sie ihr Hobby in aller Regeln nicht
 preisgeben.
 
 ## 3. Black Hat ist nicht gleich Black Hat
-Black Hats zeichnen sich durch seine Profitgier bezüglich Angriffen aus.
-Dabei unterscheidensich diese Angriffe fundermental von einander. Viele
-Blach Hats nehmen gezielt Unternehmen in angriff. Manche spezialisieren
-sich für den Betrug von Zivilisten und manche machen eine
+Black Hats zeichnen sich meist durch ihre Profitgier bezüglich Angriffen aus. Manche machen das aber nur aus Spaß oder um sich zu profilieren.
+Dabei unterscheiden sich diese Angriffe fundermental von einander. Viele
+Blach Hats nehmen gezielt Unternehmen in Angriff. Manche spezialisieren
+sich auf den Betrug von Zivilisten und manche machen eine
 Auftragsarbeit. Jeder von denen arbeit nach seinem individuellen Kodex.
 Viele Auftragshacker lehnen es ab große Persönlichkeiten zu hacken oder
 Hilfsorganisationen.
 
-Ein andere unbeliebte Ziele von Black Hats sind Krankenhäuser. An diesen
+Ein anderes unbeliebtes Ziel von Black Hats sind Krankenhäuser. An diesen
 Orten können vermeintlich Unschuldige getroffen oder schlimmstenfalls
 getötet werden. Wenn zum Beispiel ein "Crypto Trojaner" (Ein Programm,
 was den Rechner unwiederruflich Verschlüsselt und nicht mehr brauchbar
 macht) ein Krankenhaus infiziert sind diese dem Angriff aussichtslos
-ausgeliefert. Dies ist keine Fiktion, sondern in Deutschland passiert.
-Nicht nur ein mal, sondern 45 Krankenhäuser und Artzpraxen. Die meisten
-Black Hats lehnen so ein Vorgehen ab, dabei sind solche Opfer am
+ausgeliefert. Jedoch gibt es auch Black Hats, die selbst davor nicht zurückschrecken. Dies ist keine Fiktion, sondern in Deutschland passiert.
+Nicht nur ein mal. Es gibt 45 öffentlich gewordene Vorfälle in Krankenhäusern und Artzpraxen. Die meisten
+Black Hats lehnen so ein Vorgehen aber ab, dabei sind solche Opfer am
 einfachsten zu Erpressen. Diese Angriffe fanden im Zeitraum mitte 2017
-statt. Zu tragen kam der Trojaner "WannaCry". Diese Angriffe wurden aber
+statt. Zu tragen kam ein Trojaner, dem seine Entwickler den Namen "WannaCry" gaben. Diese Angriffe wurden aber
 auch von vielen Betrügern verurteilt. Es ist zwar deren Geschäft
-Menschen zu erpressen, aber sie wollen damit niemanden körperlich
+Menschen zu erpressen, aber sie wollen damit in den seltensten Fällen körperlich
 Schaden.
 
 //***Hier könnte Ihr Beispiel stehen***
@@ -167,7 +167,7 @@ glauben.
 
 ### i Utopia: "Perfekte Sicherheit"
 
-Manche wollen empfindliche Systeme schützen. Der Zweck ist es eine Sichere Welt zu schaffen, wo alle Netzwerke absolut sicher sind du das Hacken damit unmöglich. Dadurch wären alle Netzwerke geschützt und könnten nicht für andere Zwecke misbraucht werden.
+Manche wollen empfindliche Systeme schützen. Der Zweck ist es eine Sichere Welt zu schaffen, wo alle Netzwerke absolut sicher sind und das Hacken damit unmöglich. Dadurch wären alle Netzwerke geschützt und könnten nicht für andere Zwecke missbraucht werden.
 
 Ein gutes Beispiel ist das Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex der Überforderung kommen, da kleine und mittlere Kraftwerkbetreiber wie Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz leisten können. 
 
@@ -190,9 +190,13 @@ hat und das Unternehmen ein Rufverlust erleidet.
 
 #### a. Whistleblower
 
- Diese Menschen veröffentlichen potenziell sensible Informationen, die nicht für die Allgemeinheit gedacht sind. Natürlich nur die Informationen, deren Veröffentlichung vermeintlich eine große Bedeutung für die Öffentlichkeit haben, zum Beispiel weil es erhebliche Ungerechtigkeiten gibt. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich Ethisches, da auch sie auf Missstände hinweisen.
+ Diese Menschen veröffentlichen potenziell sensible Informationen, die nicht für die Allgemeinheit gedacht sind. Natürlich nur die Informationen, deren Veröffentlichung vermeintlich eine große Bedeutung für die Öffentlichkeit haben, zum Beispiel weil es erhebliche Ungerechtigkeiten gibt. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich ethisches, da auch sie auf Missstände hinweisen.
 
-Ein bekannter Whistleblower heißt Edward Snowden. Dieser Mann arbeitete für die CIA als Analyst. Dabei hat er mitbekommen, dass alle US-Bürger und Bürger aus anderen Ländern systematisch von Geheimdiensten wie NSA und CIA ausspioniert wurden. Als er seine Chefs auf diese Machenschaften ansprach waren diese eher zurückhaltend. Manche meinten er solle einfach den Mund halten und arbeiten ohne Fragen zu stellen (Dieses Vorgehen ist in Nachrichtendiensten üblich). Ab einen gewissen Punkt konnte er nicht mehr den Mund halten und hat die Beweise von den US-Servern gestohlen. Diese Daten veröffentlichte er dann auf der Platform "WikiLeaks". Daraufhin floh er aus den USA, da dieses Vorgehen dort als Straftat geahnded wird. Er ließ seine Familie und Kinder zurück zum Preis der Wahrheit. Um ehrlich zu sein war Herrn Snowden nicht ganz klar was er alles aufgeben musste.
+Ein bekannter Whistleblower heißt Edward Snowden. Dieser Mann arbeitete für die CIA als Analyst. Dabei hat er mitbekommen, dass alle US-Bürger und Bürger aus anderen Ländern systematisch von Geheimdiensten wie NSA und CIA ausspioniert wurden. Als er seine Chefs auf diese Machenschaften ansprach waren diese eher zurückhaltend. Manche meinten er solle einfach den Mund halten und arbeiten ohne Fragen zu stellen (Dieses Vorgehen ist in Nachrichtendiensten üblich). Ab einen gewissen Punkt konnte er nicht mehr den Mund halten und hat die Beweise von den US-Servern gestohlen. Diese Daten veröffentlichte er dann auf der Plattform "WikiLeaks". Daraufhin floh er aus den USA, da dieses Vorgehen dort als Straftat geahnded wird. Er ließ seine Familie und Kinder zurück zum Preis der Wahrheit. Um ehrlich zu sein war Herrn Snowden nicht ganz klar was er alles aufgeben musste.
+
+Eine weitere bekannte Wistleblowerin ist Chelsea Manning, gebürtig Bradley Manning. Sie ist ein ehemaliger US-Soldat, die mehrere Dokumente und Aufnahmen an WikiLeaks sendete, in denen Kriegsverbrechen des US Militärs in einigen Ländern im Nahen Osten, unter anderem Afghanistan und Irak, nachgewiesen wurden. Sehr bekannt ist z.B die Videoaufnahme des Luftschlags in Baghdad, vom 12. Juli 2007, in dem unter anderem zwei Journalisten starben.
+
+Daran ist erkennbar, wie wichtig die Arbeit von Whistleblowern ist. Die Untersuchungen zu den Kriegsverbrechen der USA im Nahen Osten wären ohne die Leaks gar nicht zustande gekommen. Und auch die Verfahren gegen die NSA wären nicht zustande gekommen, wenn sich Edward Snowden nicht entschieden hätte die Daten zu veröffentlichen. 
 
 #### b. Proteste mit erweiterten Mitteln
 
@@ -208,9 +212,9 @@ Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server
 
 ### i. Stephan Tönnies
 
-Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuweisen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten? Ist zum Beispiell ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese desswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
+Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuweisen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der Mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten? Ist zum Beispiell ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese desswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
 
-Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und desshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheimd- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheimd- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
+Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und desshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheim- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheim- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur Rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
 
 ### ii. xxx
 blablabla
