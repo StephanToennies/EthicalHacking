@@ -1,5 +1,6 @@
 # Ethical Hacking 
 von Stephan Tönnies & xxx
+
 ### Inhaltsverzeichnis
 1. Einführung
 2. Definitionen:
@@ -9,7 +10,7 @@ von Stephan Tönnies & xxx
    4. Grey Hats
    5. BlackHats
 3. Black Hat ist nicht gleich Black Hat
-4. Die Beweggründe eines grey Hats
+4. Die Beweggründe eines Grey Hats
    1. Utopia: "Perfekte Sicherheit" 
    2. Hacktivismus
       1. Whistleblower
@@ -24,7 +25,7 @@ von Stephan Tönnies & xxx
 x. //Sind greyhats Ethisch vertretbar?
 
 ## 1. Einführung
-In diesem Projekt werden wir über das Thema "Ethical "Hacking oder auf
+In diesem Projekt werden wir über das Thema "Ethical Hacking" oder auf
 deutsch "Ethisches Hacken" referieren. Dabei beschäftigen wir uns mit
 ethischen und moralischen Fragen in dieser Thematik. Für diese
 Ausarbeitung verwenden wir das generische Maskulinum. 
@@ -57,10 +58,10 @@ Die Ziele dieser Männer haben ein System. Diese Hacker-Community hat
 moralische Regeln für das Eindringen in fremde Rechner und Netzwerken
 aufgestellt. Alle Anheänger nutzen diesen "Kodex" oder eine abgewandelte
 Form. Dabei gibt es Beispielsweise folgende Regeln: 
-* Ziele werden getestet, wo eine gesellschaftliche Interesse besteht
+* Ziele werden getestet, wo ein gesellschaftliches Interesse besteht
 * Es wird kein wirtschaftlicher oder persönlicher Profit aus den
   Angriffen generiert
-* Alle angriffe werden Aufgezeichnet und Dokumentiert 
+* Alle Angriffe werden Aufgezeichnet und Dokumentiert 
 
 Diese Regeln sind ein Bruchteil derer, die jeder einzelne Mensch nutzt.
 Jeder hat diesbezüglich seine eigenen Regeln, aber im Allgemeinen sind
@@ -111,7 +112,7 @@ der Technik.
 
 Im Allgemeinen ist zu sagen, dass der überwiegende Teil der Hacker Grey
 Hats sind, da die Welt nicht nur Schwarz und Weiß ist. Im Allgemeinen
-sind die meisten Hacker grey hats oder könnten zumindest dem zugeordnet werden. Die
+sind die meisten Hacker Grey Hats oder könnten zumindest dem zugeordnet werden. Die
 in Kapitel 2.v beschriebenen "Black Hats" könnten auch Teilweise dieser
 Gruppierung zugeordnet werden, da diese möglicherweise auch ein höheres
 Ziel nachgehen.
@@ -159,24 +160,24 @@ Schaden.
 //***Hier könnte Ihr Beispiel stehen***
 
 ## 4. Die Beweggründe eines Grey Hats
-Die meisten grey Hats gehen ihren Aufgaben als Hobby nach. Dabei werden
+Die meisten Grey Hats gehen ihren Aufgaben als Hobby nach. Dabei werden
 diese von moralischen und ethischen Werten getrieben. Diese sind
-fundermental Unterschiedlich. Deswegen kann in dieser Ausarbeitung nur
+fundermental unterschiedlich. Deswegen kann in dieser Ausarbeitung nur
 ein Bruchteil der Ideale vermittelt werden, an die diese Menschen
 glauben.
 
 ### i Utopia: "Perfekte Sicherheit"
 
-Manche wollen empfindliche Systeme schützen. Der Zweck ist es eine Sichere Welt zu schaffen, wo alle Netzwerke absolut sicher sind und das Hacken damit unmöglich. Dadurch wären alle Netzwerke geschützt und könnten nicht für andere Zwecke missbraucht werden.
+Die meisten wollen empfindliche Systeme schützen. Der Zweck ist es eine Sichere Welt zu schaffen, wo alle Netzwerke absolut sicher sind und das Hacken damit unmöglich. Dadurch wären alle Netzwerke geschützt und könnten nicht für andere Zwecke missbraucht werden.
 
-Ein gutes Beispiel ist das Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex der Überforderung kommen, da kleine und mittlere Kraftwerkbetreiber wie Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz leisten können. 
+Ein gutes Beispiel ist das Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex der Überforderung kommen oder aus Zeitnot, da kleine und mittlere Kraftwerkbetreiber wie Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz leisten können, bzw. weil Fehler schnell behoben werden müssen. Und später wird nach dem Prinzip **Never change a running system** dei Provisorische Lösung so gelassen. 
 
 Solche Firmen gelten zum Beispiel als gute "Klienten",
-da diese massive Sicherheitsprobleme haben. Die grey Hats legen in den
-meisten Fällen diesen Betreibern die Schwachstellen offen. Das Problem
-bei der ganzen Sache bleibt aber immer noch, dass selbst bei der
-Auflegung und der eventuellen Erpressung dieser Unternehmen ihre
-Schwachstellen nicht beseitigen können. Dabei sind diese dann ein
+da diese massive Sicherheitsprobleme haben. Die Grey Hats melden gefundene Schwachstellen an die Betriebe und geben ihnen damit die Möglichkeit dei Fehler zu beheben, bevor jemand diese Schwachstelle ausnutzen kann um Schaden zu verursachen. Da Unternehmen aber in der Regel entweder nicht die Zeit, Lust, Kompetenz oder Motivation haben noch mehr Geld in den Schutz zu stecken und diese Fehler zu beheben, gehen viele Grey Hats dazu über ihnen Ultimaten zu stellen, bevor diese Schwachstellen veröffentlicht werden.
+
+Das Problem bei der ganzen Sache bleibt aber immer noch, dass selbst bei der
+Veröffentlichung und der eventuellen Erpressung dieser Unternehmen, diese ihre
+Schwachstellen nicht immer beseitigen können. Dabei sind diese dann ein
 Spielball eines Hobbyhackers. Der Hacker möchte nur das Beste für den
 Betreiber und der Betreiber kann dem nicht nachkommen. Wenn soetwas
 öffentlich wird, dass der Betreiber seinen Auflagen nicht hinterher
@@ -184,9 +185,15 @@ kommt steht dieser noch als Verweigerer da. Von solchen Zielen kommen
 meist alle nicht gut von weg, da der Hacker nicht die Sicherheit erhöt
 hat und das Unternehmen ein Rufverlust erleidet.
 
+Einige Grey Hat Gruppierungen sind deshalb dazu übergegangen, nach Möglichkeit nicht nur die Schwachstelle an die Unternehmen zu melden, sondern auch eine Mögliche Lösung zu bieten. Dies hat für die Unternehmen den Vorteil, dass diese nicht noch mehr Zeit in das beheben der Sicherheitslücke, und somit auch weniger Geld, zu investieren müssen. Und zum Anderen bietet sich für den Grey Hat eine Job Möglichkeit. De Weiteren steigt natürlich das Ansehen des Grey Hats wenn dieser Schwachstellen und evtl. sogenannte **Zero-Day-Exploits** findet. Zum Anderen bieten solche Funde immer für viel Gesprächsstoff auf Sicherheitskonferenzen und Hack-Talks.
+
+> Ein **Exploit** ist eine Methode bzw. ein Vorgangsweise um Schwachstellen auszunutzen. Ein **Zero-Day-Exploit** ist ein noch ungenutzter und unbekannter Exploit.
+
+>**Hack-Talks** sind Vorträge oder Events, bei denen sich Interessierte und Fachkundige treffen um über aktuelle Funde oder Ereignisse zu diskutieren und zu informieren.  
+
 ### ii. Hacktivismus
 
-**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus. Manche grey Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Rubriken aufteilen. Eine allgemein bekannte Rubriken wollen wir jetzt etwas vorstellen. Diese Menschen nennen sich **Whistleblower**:
+**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus. Manche Grey Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Rubriken aufteilen. Eine allgemein bekannte Rubriken wollen wir jetzt etwas vorstellen. Diese Menschen nennen sich **Whistleblower**:
 
 #### a. Whistleblower
 
@@ -207,18 +214,6 @@ Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server
 
 **E-Mail-Bomben** folgen dem selben Prinzip. Hierbei werden die Mail-Postfächr mit vielen Mails geflutet. meist haben diese auch noch große Anhänge, die die Rechner und Server ebenfalls verlangsamen. 
 
-//TODO 
-## XX-1 Fazit
-
-### i. Stephan Tönnies
-
-Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuweisen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der Mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten? Ist zum Beispiell ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese desswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
-
-Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und desshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheim- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheim- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur Rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
-
-### ii. xxx
-blablabla
-
 ## XX Anmerkungen
 
 ### xx.1 Was Hacker gerne übersehen
@@ -233,7 +228,20 @@ Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In de
 //***Hier könnte Ihr Beispiel stehen***
 
 
-## //Stichpunkte Pro grey Hats
+//TODO 
+## XX-1 Fazit
+
+### i. Stephan Tönnies
+
+Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuweisen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der Mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten? Ist zum Beispiell ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese desswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
+
+Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und desshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheim- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheim- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur Rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
+
+### ii. xxx
+blablabla
+
+
+## //Stichpunkte Pro Grey Hats
 * Durch einen erfolgreichen Angriff können an sensible Daten Eingriffe 
   erfolgen
 * Der Angegriffene wurde vorher nicht um erlaubnis gefragt
