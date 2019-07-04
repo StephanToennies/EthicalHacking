@@ -186,7 +186,7 @@ hat und das Unternehmen ein Rufverlust erleidet.
 
 ### ii. Hacktivismus
 
-**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus. Manche grey Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Rubriken aufteilen. Eine allgemein bekannte Rubriken wollen wir jetzt etwas vorstellen. Diese Menschen nennen sich **Whistleblower**:
+**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus. Manche grey Hats sehen sich als politische Aktivisten an. Mittlerweile ändert sich die Situation für diese Menschen zum positiven. In der europäischen Union wurden im Jahr 2019 bestimmungen für Whistleblower verabsiedet. Dabei werden ihnen grundlegend Rechte zugesprochen, wenn diese Veröffentlichungen dem öffentlichen Interesse dienen. Whistleblower sind aber nur eine Art des Hacktivismus.
 
 #### a. Whistleblower
 
@@ -200,7 +200,8 @@ Daran ist erkennbar, wie wichtig die Arbeit von Whistleblowern ist. Die Untersuc
 
 #### b. Proteste mit erweiterten Mitteln
 
-Hacktivisten nutzen Computer und Computernetzwerke als Mittel zum Protest gegen politische Ungerechtigkeiten. Dabei gibt es verschiedene Arten des Protestes. Eine der ersten Methoden waren sogenannte **"black faxes"**. Dabei werden komplett schwarze Seiten per Fax versendet. Dies blockiert die Telefonleitungen und verbraucht die Druckerpatronen oder -toner und schadet dem Angegriffenen Materiell....
+Hacktivisten nutzen Computer und Computernetzwerke als Mittel zum Protest gegen politische Ungerechtigkeiten. Dabei gibt es verschiedene Arten des Protestes. Im Allgemeinen gelten diese Proteste eher in Richtung zivieler Ungehorsam. Eine der ersten Methoden waren sogenannte **"black faxes"**. Dabei werden komplett schwarze Seiten per Fax versendet. Dies blockiert die Telefonleitungen und verbraucht die Druckerpatronen oder -toner und schadet dem Angegriffenen Materiell.
+
 Weitere verbreitete Methoden sind **DDoS-Attacken** oder auch **E-Mail-Bomben**.
 
 Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server oder Rechner des Opfers mit Anfragen überflutet, so dass diese überlastet sind und auf die gewöhnlichen Anfragen nicht Antworten können und z.B Webseiten nicht mehr erreichbar sind. Dies ist ein häufig genutztes Protestmittel gegen Unternehmen oder politische Webseiten.
@@ -208,6 +209,20 @@ Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server
 **E-Mail-Bomben** folgen dem selben Prinzip. Hierbei werden die Mail-Postfächr mit vielen Mails geflutet. meist haben diese auch noch große Anhänge, die die Rechner und Server ebenfalls verlangsamen. 
 
 //TODO 
+
+Grundlegend ist zu sagen, dass all diese Aktionen das Ziel haben, die Kommunikation des Angegriffenen zu beschränken oder zu behindern. Ein materieller Schaden des Angegriffen ist dabei nicht zwangsläufig gewünscht.
+
+## XX Anmerkungen
+
+### xx.1 Was Hacker gerne übersehen
+Viele Unterscheiden nicht zwischen Firmen und Privatpersonen. Dabei haben diese mehr Gemeinsamkeiten als es scheint. Manche meinen, dass es "nicht schlimm sei wenn ein Unternehmen ausgeraubt oder erpresst wird, denn das ist nur Geld. Dadurch kommt ja keiner zu Schaden." Diese Aussage würde wahrscheinlich von einem Black Hats kommen.
+
+Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatpersonen einfacher zu betrachten ist als bei einem Unternehmen. Ein Unternehmen ist als Konstrukt deutlich komplexer als ein einzelner Mensch, weil ein Unternehmen aus einer vielzahl von Menschen besteht. Dort fällt das Einzelschicksal eines einzelnen Mitarbeiters nicht wirklich auf. Bei einer Privatperson schon. Dieses Schicksal ist bei einer spiziellen Person deutlich effektiver wahrnehmbar.
+
+Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In dem Vortrag wurde angemerkt, dass ein solcher Verleich nicht korrekt sei, da ein Multimilionenkonzern nicht die gleichen Rechte und Emotionen habe.... //TODO
+ 
+//***Hier könnte Ihr Beispiel stehen***
+
 ## XX-1 Fazit
 
 ### i. Stephan Tönnies
@@ -219,46 +234,4 @@ Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung
 ### ii. xxx
 blablabla
 
-## XX Anmerkungen
 
-### xx.1 Was Hacker gerne übersehen
-Viele Unterscheiden nicht zwischen Firmen und Privatpersonen. Dabei haben diese mehr Gemeinsamkeiten als es scheint. Manche meinen, dass es "nicht schlimm sei wenn ein Unternehmen ausgeraubt oder erpresst wird, denn das ist nur Geld. Dadurch kommt ja keiner zu Schaden." Diese Aussage würde wahrscheinlich von einem Black Hats kommen.
-
-Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatpersonen einfacher zu betrachten ist als bei einem Unternehmen. Ein Unternehmen ist als Konstrukt deutlich komplexer als ein einzelner Mensch, weil ein Unternehmen aus einer vielzahl von Menschen besteht. Dort fällt das Einzelschicksal eines einzelnen Mitarbeiters nicht wirklich auf. Bei einer Privatperson schon. Dieses Schicksal ist bei einer spiziellen Person deutlich effektiver wahrnehmbar.
-
-Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In dem Vortrag wurde angemerkt, dass ein solcher Verleich nicht korrekt sei, da ein Multimilionenkonzern nicht die gleichen Rechte und Emotionen habe.... //TODO
- 
-
-
-//***Hier könnte Ihr Beispiel stehen***
-
-
-## //Stichpunkte Pro grey Hats
-* Durch einen erfolgreichen Angriff können an sensible Daten Eingriffe 
-  erfolgen
-* Der Angegriffene wurde vorher nicht um erlaubnis gefragt
-* Im Allgemeinen wird dem Betroffenen keinen Schaden zugeführt
-* Bösartige Hacker können durch diese Vorstufe sich "schützen"
-* Das Thema Daten- und IT-Sicherheit gerät mehr in Fokus der
-  Öffentlichkeit
-* Themen für Hacktalks bei Conventions
-* Für den Angegriffenen kann es durch den erfolgreichen Angriff zu einem
-   Rufverlust kommen
-* Wenn regelmäßig Schwachstellen gefunden werden, sinkt der Ruf des 
-  Unternehmens
-* Ruf des Angreifers steigt durch finden der Sicherheitslücken
-* Möglichkeit eines Jobangebots oder andere Persönliche bereicherung
-* Durch frühzeitige Erkennung von Schwachstellen haben Unternehmen die
-  Möglichkeit größere Schäden zu verhindern.
-* Unternehmen sind faul und wollen Geld ohne Arbeit. Durch Funde von 
-  Schwachstellen müssen sie arbeiten
-* Angegriffener wird zum beheben des Problems gezwungen
-* Angriff von fremden Eigentum
-* Der Angriff ohne Erlaubnis des Angegriffenen ist eine Straftat
-* Schwachstellen werden erkannt und Betroffener wird informiert.
-* Durch Melden der schwachstellen entsteht mehrarbeit bei den 
-  betroffenen
-* Unternehmen werden gezwungen ihre Schwachstellen zu beheben, was zu 
-  sichereren Systemen oder Anwendungen führt.
-* Der Angreifer droht dem Betroffenem (Strafttat)
-* Angriffe stören evtl. den Betrieb und deren Abläufe
