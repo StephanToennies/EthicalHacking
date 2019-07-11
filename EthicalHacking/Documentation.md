@@ -110,7 +110,7 @@ wurde diese Zertifizierung ins Leben gerufen. Ganz geschützt ist man vor
 sowas zwar nicht, aber es erhöht die Sicherheit erheblich.
 
 ### iv. Grey Hats
-Diese Hacker arbeiten im Gegensatz zu den "white hats" nicht erst auf
+Diese Hacker arbeiten im Gegensatz zu den "White Hats" nicht erst auf
 Auftrag, sondern sie suchen sich ihre Arbeit selbst. Wenn z.B ein neuer
 Hack oder eine neue Schwachstelle entdeckt und veröffentlicht wurde,
 suchen sie nach Systemen, die betroffen sein könnten um diese evtl. auf
@@ -201,7 +201,7 @@ Einige Grey Hat Gruppierungen sind deshalb dazu übergegangen, nach Möglichkeit
 
 ### ii. Hacktivismus
 
-**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus. Manche Grey Hats sehen sich als politische Aktivisten an. Diese lassen sich in unterschiedlichsten Rubriken aufteilen. Eine allgemein bekannte Rubriken wollen wir jetzt etwas vorstellen. Diese Menschen nennen sich **Whistleblower**:
+**Hacktivismus** ist ein Kofferwort aus den beiden Wörtern **Hacken** und **Aktivismus** und bezeichnet eine Form des politischen Aktivismus. Manche Grey Hats sehen sich als politische Aktivisten an. Mittlerweile ändert sich die Situation für diese Menschen zum positiven. In der europäischen Union wurden im Jahr 2019 bestimmungen für **Whistleblower** verabsiedet. Dabei werden ihnen grundlegend Rechte zugesprochen, wenn diese Veröffentlichungen dem öffentlichen Interesse dienen. Whistleblower sind aber nur eine Art des Hacktivismus.
 
 #### a. Whistleblower
 
@@ -215,7 +215,8 @@ Daran ist erkennbar, wie wichtig die Arbeit von Whistleblowern ist. Die Untersuc
 
 #### b. Proteste mit erweiterten Mitteln
 
-Hacktivisten nutzen Computer und Computernetzwerke als Mittel zum Protest gegen politische Ungerechtigkeiten. Dabei gibt es verschiedene Arten des Protestes. Eine der ersten Methoden waren sogenannte **"black faxes"**. Dabei werden komplett schwarze Seiten per Fax versendet. Dies blockiert die Telefonleitungen und verbraucht die Druckerpatronen oder -toner und schadet dem Angegriffenen Materiell....
+Hacktivisten nutzen Computer und Computernetzwerke als Mittel zum Protest gegen politische Ungerechtigkeiten. Dabei gibt es verschiedene Arten des Protestes. Im Allgemeinen gelten diese Proteste eher in Richtung zivieler Ungehorsam. Eine der ersten Methoden waren sogenannte **"black faxes"**. Dabei werden komplett schwarze Seiten per Fax versendet. Dies blockiert die Telefonleitungen und verbraucht die Druckerpatronen oder -toner und schadet dem Angegriffenen Materiell.
+
 Weitere verbreitete Methoden sind **DDoS-Attacken** oder auch **E-Mail-Bomben**.
 
 Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server oder Rechner des Opfers mit Anfragen überflutet, so dass diese überlastet sind und auf die gewöhnlichen Anfragen nicht Antworten können und z.B Webseiten nicht mehr erreichbar sind. Dies ist ein häufig genutztes Protestmittel gegen Unternehmen oder politische Webseiten.
@@ -229,21 +230,20 @@ Viele Unterscheiden zwischen Firmen und Privatpersonen. Dabei haben diese mehr G
 
 Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatpersonen einfacher zu betrachten ist als bei einem Unternehmen. Ein Unternehmen ist als Konstrukt deutlich komplexer als ein einzelner Mensch, weil ein Unternehmen aus einer vielzahl von Menschen besteht. Dort fällt das Einzelschicksal eines einzelnen Mitarbeiters nicht wirklich auf. Bei einer Privatperson schon. Dieses Schicksal ist bei einer speziellen Person deutlich effektiver wahrnehmbar.
 
+Grundlegend ist zu sagen, dass all diese Aktionen das Ziel haben, die Kommunikation des Angegriffenen zu beschränken oder zu behindern. Ein materieller Schaden des Angegriffen ist dabei nicht zwangsläufig gewünscht.
+
 Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In dem Vortrag wurde angemerkt, dass ein solcher Vergleich nicht korrekt sei, da ein Multimillionenkonzern nicht die gleichen Rechte und Emotionen habe.... //TODO
  
-
-
 //***Hier könnte Ihr Beispiel stehen***
-
-
-//TODO 
 
 ## XX-1 Fazit
 
 ### i. Stephan Tönnies
 
-Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuwerfen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der Mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten. Ist zum Beispiel ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese deswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
+Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuweisen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der Mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten? Ist zum Beispiell ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese desswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
 
-Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und deshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheim- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheim- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur Rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
+Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und desshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheim- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheim- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur Rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
 
 ### ii. xxx
+
+
