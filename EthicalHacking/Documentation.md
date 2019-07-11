@@ -22,14 +22,22 @@ von Stephan Tönnies & xxx
 99. Anmerkungen
     1. Was Hacker gerne übersehen
 
-x. //Sind greyhats Ethisch vertretbar?
-
 ## 1. Einführung
 In diesem Projekt werden wir über das Thema "Ethical Hacking" oder auf
 deutsch "Ethisches Hacken" referieren. Dabei beschäftigen wir uns mit
-ethischen und moralischen Fragen in dieser Thematik. Für diese
-Ausarbeitung verwenden wir das generische Maskulinum. 
+ethischen und moralischen Fragen in dieser Thematik. 
+
+Aufgrund von persönlichen Interessen und Erfahrungen mit dem Thema haben wir uns entschieden die Thematik mal aus einer ethischen Perspektive zu betrachten. Da sich unsere Gesellschaft immer weiter in das digitale Zeitalter vorstößt, stehen wir vor noch ungeklärten Fragen.
+- Welche Art von Protest ist heutzutage möglich und zulässig?
+- Wie wirkt sich diese neue Art des Protestes auf uns aus?
+- Was für Grenzen sind sinnvoll?
+- Wollen wir Proteste dieser Art überhaupt zulassen?
+
+Für diese Ausarbeitung verwenden wir das generische Maskulinum. 
+
 ## 2. Definitionen
+Damit wir uns in der weiteren Ausabeitung auf einheitliche Begriffe einigen, werden sie in diesem Kapitel geklärt.
+
 ### i. Hacking
 Der Begriff "Hacken" hat viele verschiedene Definitionen. Für die Einen 
 ist es das schnelle, unschöne Lösen eines Problems, für Andere das
@@ -45,6 +53,7 @@ Netzwerk oder einen Einzelrechner einzudringen. Dabei können Eigenheiten
 und Entfremdungen von Komponenten im System ein Weg in ein System sein.
 Diese Nutzung von Rechnern ist nicht im Sinne des Erfinders und damit
 ein ***Hack***.
+
 ### ii. Ethical Hacking
 
 ***Ethical Hacking*** meint das Eindringen in Systeme, um daraus ein
@@ -56,12 +65,12 @@ Rechnern oder Netzwerken aufzulegen.
 
 Die Ziele dieser Männer haben ein System. Diese Hacker-Community hat
 moralische Regeln für das Eindringen in fremde Rechner und Netzwerken
-aufgestellt. Alle Anheänger nutzen diesen "Kodex" oder eine abgewandelte
+aufgestellt. Alle Anhänger nutzen diesen "Kodex" oder eine abgewandelte
 Form. Dabei gibt es Beispielsweise folgende Regeln: 
 * Ziele werden getestet, wo ein gesellschaftliches Interesse besteht
 * Es wird kein wirtschaftlicher oder persönlicher Profit aus den
   Angriffen generiert
-* Alle Angriffe werden Aufgezeichnet und Dokumentiert 
+* Alle Angriffe werden Aufgezeichnet und Dokumentiert
 
 Diese Regeln sind ein Bruchteil derer, die jeder einzelne Mensch nutzt.
 Jeder hat diesbezüglich seine eigenen Regeln, aber im Allgemeinen sind
@@ -69,8 +78,8 @@ die Regeln relativ gleich.
 
 Zuzüglich zu den moralischen Regel gibt es in Deutschland auch eine
 Gesetzgebung, an die man sich zu halten hat. Der Paragraph(§202a-c),
-oder besser Bekannt als der ***Hackerparagraph*** beschränkt und erlaubt
-individuelle Personen fremde Netzwerke anzugreifen. 
+oder besser Bekannt als die ***Hackerparagraph*** beschränkt und erlaubt
+individuelle Personen fremde Netzwerke anzugreifen.
 
 Diese sagen Grob, dass das Abfangen, Speichern oder Nutzen von fremden
 Daten solange nicht Erlaubt ist, bis diese von den Fremden genemigt
@@ -79,8 +88,8 @@ eine Straftat darstellt.
 
 ### iii. White Hats
 Dieser Begriff ist ebenfalls dem "Hacking" zugehörig. Diese Hacker
-greifen zwar Netzwerkarchitekturen an, aber diese sind genehmigt. Das
-heißt, sie haben die Erlaubnis der Firmen vorher eingeholt und ihre
+greifen zwar Netzwerkarchitekturen an, aber diese Angriffe sind genehmigt. Das
+heißt, sie haben die Erlaubnis der Firmen vorher schriftlich eingeholt und ihre
 Zuständigkeit ist vollumfänglich geklärt. Diese Angreifer führen genau
 Protokoll über diese Angriffe und melden den Unternehmen sämtliche
 Schwachstellen. Das heißt sie wurden von den Firmen eingekauft und
@@ -105,7 +114,7 @@ Diese Hacker arbeiten im Gegensatz zu den "white hats" nicht erst auf
 Auftrag, sondern sie suchen sich ihre Arbeit selbst. Wenn z.B ein neuer
 Hack oder eine neue Schwachstelle entdeckt und veröffentlicht wurde,
 suchen sie nach Systemen, die betroffen sein könnten um diese evtl. auf
-Dauer vor größeren Schäden schützen zu könnten. Es kann aber auch genau so passieren, dass sie zufällig über neue Sicherheitslücken stolpern. Wenn sie z.B beim surfen auf einer Seite landen, die sich bei "falscher" Nutzung ungewönlich verhält, was einen Hinweis auf unsaubere Umsetzung sein kann. Grey Hats sind von sehr neugierig und "spielen gerne herum", wenn sie solche Anzeichen finden. Grey Hats nehmen es
+Dauer vor größeren Schäden schützen zu könnten. Es kann aber auch genau so passieren, dass sie zufällig über neue Sicherheitslücken stolpern. Wenn sie z.B beim surfen auf einer Seite landen, die sich bei "falscher" Nutzung ungewöhnlich verhält, was einen Hinweis auf unsaubere Umsetzung sein kann. Grey Hats sind von natur aus sehr neugierig und "spielen gerne herum", wenn sie solche Anzeichen finden. Grey Hats nehmen es
 nicht ganz so genau mit den Gesetzen, verfolgen aber höhere Ziele- z.B die
 Verbesserung der Gesellschaft oder ein verantwortungsvollerer Umgang mit
 der Technik.
@@ -137,9 +146,8 @@ preisgeben.
 ## 3. Black Hat ist nicht gleich Black Hat
 Black Hats zeichnen sich meist durch ihre Profitgier bezüglich Angriffen aus. Manche machen das aber nur aus Spaß oder um sich zu profilieren.
 Dabei unterscheiden sich diese Angriffe fundermental von einander. Viele
-Blach Hats nehmen gezielt Unternehmen in Angriff. Manche spezialisieren
-sich auf den Betrug von Zivilisten und manche machen eine
-Auftragsarbeit. Jeder von denen arbeit nach seinem individuellen Kodex.
+Black Hats nehmen gezielt Unternehmen ins Visier. Manche spezialisieren
+sich auf den Betrug von Zivilisten und manche bieten es als Dienstleistung an. Jeder von denen arbeit nach seinem individuellen Kodex.
 Viele Auftragshacker lehnen es ab große Persönlichkeiten zu hacken oder
 Hilfsorganisationen.
 
@@ -160,7 +168,7 @@ Schaden.
 //***Hier könnte Ihr Beispiel stehen***
 
 ## 4. Die Beweggründe eines Grey Hats
-Die meisten Grey Hats gehen ihren Aufgaben als Hobby nach. Dabei werden
+Die meisten Grey Hats gehen ihren Aufgaben meist als Hobby nach. Dabei werden
 diese von moralischen und ethischen Werten getrieben. Diese sind
 fundermental unterschiedlich. Deswegen kann in dieser Ausarbeitung nur
 ein Bruchteil der Ideale vermittelt werden, an die diese Menschen
@@ -170,10 +178,10 @@ glauben.
 
 Die meisten wollen empfindliche Systeme schützen. Der Zweck ist es eine Sichere Welt zu schaffen, wo alle Netzwerke absolut sicher sind und das Hacken damit unmöglich. Dadurch wären alle Netzwerke geschützt und könnten nicht für andere Zwecke missbraucht werden.
 
-Ein gutes Beispiel ist das Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex der Überforderung kommen oder aus Zeitnot, da kleine und mittlere Kraftwerkbetreiber wie Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz leisten können, bzw. weil Fehler schnell behoben werden müssen. Und später wird nach dem Prinzip **Never change a running system** dei Provisorische Lösung so gelassen. 
+Ein gutes Beispiel ist das Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex der Überforderung kommen oder aus Zeitnot, da kleine und mittlere Kraftwerkbetreiber wie Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz leisten können, bzw. weil Fehler schnell behoben werden müssen. Und später wird nach dem Prinzip **Never change a running system** die Provisorische Lösung so gelassen. 
 
 Solche Firmen gelten zum Beispiel als gute "Klienten",
-da diese massive Sicherheitsprobleme haben. Die Grey Hats melden gefundene Schwachstellen an die Betriebe und geben ihnen damit die Möglichkeit dei Fehler zu beheben, bevor jemand diese Schwachstelle ausnutzen kann um Schaden zu verursachen. Da Unternehmen aber in der Regel entweder nicht die Zeit, Lust, Kompetenz oder Motivation haben noch mehr Geld in den Schutz zu stecken und diese Fehler zu beheben, gehen viele Grey Hats dazu über ihnen Ultimaten zu stellen, bevor diese Schwachstellen veröffentlicht werden.
+da diese massive Sicherheitsprobleme haben. Die Grey Hats melden gefundene Schwachstellen an die Betriebe und geben ihnen damit die Möglichkeit die Fehler zu beheben, bevor jemand diese Schwachstelle ausnutzen kann um Schaden zu verursachen. Da Unternehmen aber in der Regel entweder nicht die Zeit, Lust, Kompetenz oder Motivation haben noch mehr Geld in den Schutz zu stecken und diese Fehler zu beheben, gehen viele Grey Hats dazu über ihnen Ultimaten zu stellen, bevor diese Schwachstellen veröffentlicht werden.
 
 Das Problem bei der ganzen Sache bleibt aber immer noch, dass selbst bei der
 Veröffentlichung und der eventuellen Erpressung dieser Unternehmen, diese ihre
@@ -185,7 +193,7 @@ kommt steht dieser noch als Verweigerer da. Von solchen Zielen kommen
 meist alle nicht gut von weg, da der Hacker nicht die Sicherheit erhöt
 hat und das Unternehmen ein Rufverlust erleidet.
 
-Einige Grey Hat Gruppierungen sind deshalb dazu übergegangen, nach Möglichkeit nicht nur die Schwachstelle an die Unternehmen zu melden, sondern auch eine Mögliche Lösung zu bieten. Dies hat für die Unternehmen den Vorteil, dass diese nicht noch mehr Zeit in das beheben der Sicherheitslücke, und somit auch weniger Geld, zu investieren müssen. Und zum Anderen bietet sich für den Grey Hat eine Job Möglichkeit. De Weiteren steigt natürlich das Ansehen des Grey Hats wenn dieser Schwachstellen und evtl. sogenannte **Zero-Day-Exploits** findet. Zum Anderen bieten solche Funde immer für viel Gesprächsstoff auf Sicherheitskonferenzen und Hack-Talks.
+Einige Grey Hat Gruppierungen sind deshalb dazu übergegangen, nach Möglichkeit nicht nur die Schwachstelle an die Unternehmen zu melden, sondern auch eine Mögliche Lösung zu bieten. Dies hat für die Unternehmen den Vorteil, dass diese nicht noch mehr Zeit in das beheben der Sicherheitslücke, und somit auch weniger Geld, zu investieren müssen. Und zum Anderen bietet sich für den Grey Hat eine Job Möglichkeit. Des Weiteren steigt natürlich das Ansehen des Grey Hats wenn dieser Schwachstellen und evtl. sogenannte **Zero-Day-Exploits** findet. Zum Anderen bieten solche Funde immer viel Gesprächsstoff auf Sicherheitskonferenzen und Hack-Talks.
 
 > Ein **Exploit** ist eine Methode bzw. ein Vorgangsweise um Schwachstellen auszunutzen. Ein **Zero-Day-Exploit** ist ein noch ungenutzter und unbekannter Exploit.
 
@@ -199,7 +207,7 @@ Einige Grey Hat Gruppierungen sind deshalb dazu übergegangen, nach Möglichkeit
 
  Diese Menschen veröffentlichen potenziell sensible Informationen, die nicht für die Allgemeinheit gedacht sind. Natürlich nur die Informationen, deren Veröffentlichung vermeintlich eine große Bedeutung für die Öffentlichkeit haben, zum Beispiel weil es erhebliche Ungerechtigkeiten gibt. Diese testen zwar keine Schwachstellen aus, trotzdem tun sie etwas vermeintlich ethisches, da auch sie auf Missstände hinweisen.
 
-Ein bekannter Whistleblower heißt Edward Snowden. Dieser Mann arbeitete für die CIA als Analyst. Dabei hat er mitbekommen, dass alle US-Bürger und Bürger aus anderen Ländern systematisch von Geheimdiensten wie NSA und CIA ausspioniert wurden. Als er seine Chefs auf diese Machenschaften ansprach waren diese eher zurückhaltend. Manche meinten er solle einfach den Mund halten und arbeiten ohne Fragen zu stellen (Dieses Vorgehen ist in Nachrichtendiensten üblich). Ab einen gewissen Punkt konnte er nicht mehr den Mund halten und hat die Beweise von den US-Servern gestohlen. Diese Daten veröffentlichte er dann auf der Plattform "WikiLeaks". Daraufhin floh er aus den USA, da dieses Vorgehen dort als Straftat geahnded wird. Er ließ seine Familie und Kinder zurück zum Preis der Wahrheit. Um ehrlich zu sein war Herrn Snowden nicht ganz klar was er alles aufgeben musste.
+Ein bekannter Whistleblower heißt Edward Snowden. Dieser Mann arbeitete für die CIA als Analyst. Dabei hat er mitbekommen, dass alle US-Bürger und Bürger aus anderen Ländern systematisch von Geheimdiensten wie NSA und CIA ausspioniert wurden. Als er seine Chefs auf diese Machenschaften ansprach waren diese eher zurückhaltend. Manche meinten er solle einfach den Mund halten und arbeiten ohne Fragen zu stellen (Dieses Vorgehen ist in Nachrichtendiensten üblich). Ab einen gewissen Punkt konnte er nicht mehr den Mund halten und hat die Beweise von den US-Servern gestohlen. Diese Daten veröffentlichte er dann auf der Plattform "WikiLeaks". Daraufhin floh er aus den USA, da dieses Vorgehen dort als Straftat geahnded wird. Er ließ seine Familie und Freunde zurück zum Preis der Wahrheit. Um ehrlich zu sein war Herrn Snowden nicht ganz klar was er alles aufgeben musste.
 
 Eine weitere bekannte Wistleblowerin ist Chelsea Manning, gebürtig Bradley Manning. Sie ist ein ehemaliger US-Soldat, die mehrere Dokumente und Aufnahmen an WikiLeaks sendete, in denen Kriegsverbrechen des US Militärs in einigen Ländern im Nahen Osten, unter anderem Afghanistan und Irak, nachgewiesen wurden. Sehr bekannt ist z.B die Videoaufnahme des Luftschlags in Baghdad, vom 12. Juli 2007, in dem unter anderem zwei Journalisten starben.
 
@@ -217,11 +225,11 @@ Bei **DDoS-Attacken** (Distributed-Denial-of-Service-Attacken) werden die Server
 ## XX Anmerkungen
 
 ### xx.1 Was Hacker gerne übersehen
-Viele Unterscheiden nicht zwischen Firmen und Privatpersonen. Dabei haben diese mehr Gemeinsamkeiten als es scheint. Manche meinen, dass es "nicht schlimm sei wenn ein Unternehmen ausgeraubt oder erpresst wird, denn das ist nur Geld. Dadurch kommt ja keiner zu Schaden." Diese Aussage würde wahrscheinlich von einem Black Hats kommen.
+Viele Unterscheiden zwischen Firmen und Privatpersonen. Dabei haben diese mehr Gemeinsamkeiten als es scheint. Manche meinen, dass es "nicht schlimm sei wenn ein Unternehmen ausgeraubt oder erpresst wird, denn das ist nur Geld. Dadurch kommt ja keiner zu Schaden." Diese Aussage würde wahrscheinlich von einem Black Hat kommen.
 
-Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatpersonen einfacher zu betrachten ist als bei einem Unternehmen. Ein Unternehmen ist als Konstrukt deutlich komplexer als ein einzelner Mensch, weil ein Unternehmen aus einer vielzahl von Menschen besteht. Dort fällt das Einzelschicksal eines einzelnen Mitarbeiters nicht wirklich auf. Bei einer Privatperson schon. Dieses Schicksal ist bei einer spiziellen Person deutlich effektiver wahrnehmbar.
+Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatpersonen einfacher zu betrachten ist als bei einem Unternehmen. Ein Unternehmen ist als Konstrukt deutlich komplexer als ein einzelner Mensch, weil ein Unternehmen aus einer vielzahl von Menschen besteht. Dort fällt das Einzelschicksal eines einzelnen Mitarbeiters nicht wirklich auf. Bei einer Privatperson schon. Dieses Schicksal ist bei einer speziellen Person deutlich effektiver wahrnehmbar.
 
-Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In dem Vortrag wurde angemerkt, dass ein solcher Verleich nicht korrekt sei, da ein Multimilionenkonzern nicht die gleichen Rechte und Emotionen habe.... //TODO
+Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In dem Vortrag wurde angemerkt, dass ein solcher Vergleich nicht korrekt sei, da ein Multimillionenkonzern nicht die gleichen Rechte und Emotionen habe.... //TODO
  
 
 
@@ -229,44 +237,13 @@ Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In de
 
 
 //TODO 
+
 ## XX-1 Fazit
 
 ### i. Stephan Tönnies
 
-Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuweisen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der Mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten? Ist zum Beispiell ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese desswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
+Ethical Hacking hat seine Daseinsberechtigung. Wie in allen Teilen gibt es Leute, die über das Ziel hinaus schießen. Dies ist denen nicht Vorzuwerfen, denn sie wissen es nicht besser und glauben das richtige zu tun. Die Allgemeinheit folgt dem Prinzip der Mäßigung. Probleme aufdecken wo welche sind, aber seine Linien treu einhalten. Es sollte aber immer die Frage der Verhältnismäßigkeit gelten. Ist zum Beispiel ein Kleinstenergieproduzent ein Sicherheitsrisiko für das ganze Stromnetz? Ja. Sollen diese deswegen von irgendwelchen Hackern belästigt werden? Nein, sie haben nicht die Kapazitäten den Stand zu ändern. Das einzige was man da schafft ist noch die ganze Energiewende im Extremfall gegen die Wand zu fahren aufgrund von "potenziellen Sicherheitslücken".
 
-Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und desshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheim- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheim- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur Rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
+Doch ich persönlich habe so meine Probleme mit dem Whistleblower. Meine Meinung bezüglich Whistleblower ist, dass diese Geheimnisverrat begangen haben und deshalb mit den Konsequenzen leben sollen. Wieso sollte Vater Staat ihnen auch noch helfen, wenn sie deren Geheimnisse verraten haben? Es gab vielleicht Gründe, dass diese Kenntnisse geheim sind. Geheim- und Nachrichtendienste arbeiten nach außen mit der Strategie "Ignoranz ist segen!". Und da stehe ich mit den Geheim- und Nachrichtendienste auf einer Seite. Diese Behörden sind da um uns vor der bösen Welt zu schützen und Whistleblower brechen dies auf. Man kann es finden wie man will, aber ich bin der Meinung das man für Verbrechen zur Rechenschaft gezogen wird (egal wie nobel die Verbrechen sind).
 
 ### ii. xxx
-blablabla
-
-
-## //Stichpunkte Pro Grey Hats
-* Durch einen erfolgreichen Angriff können an sensible Daten Eingriffe 
-  erfolgen
-* Der Angegriffene wurde vorher nicht um erlaubnis gefragt
-* Im Allgemeinen wird dem Betroffenen keinen Schaden zugeführt
-* Bösartige Hacker können durch diese Vorstufe sich "schützen"
-* Das Thema Daten- und IT-Sicherheit gerät mehr in Fokus der
-  Öffentlichkeit
-* Themen für Hacktalks bei Conventions
-* Für den Angegriffenen kann es durch den erfolgreichen Angriff zu einem
-   Rufverlust kommen
-* Wenn regelmäßig Schwachstellen gefunden werden, sinkt der Ruf des 
-  Unternehmens
-* Ruf des Angreifers steigt durch finden der Sicherheitslücken
-* Möglichkeit eines Jobangebots oder andere Persönliche bereicherung
-* Durch frühzeitige Erkennung von Schwachstellen haben Unternehmen die
-  Möglichkeit größere Schäden zu verhindern.
-* Unternehmen sind faul und wollen Geld ohne Arbeit. Durch Funde von 
-  Schwachstellen müssen sie arbeiten
-* Angegriffener wird zum beheben des Problems gezwungen
-* Angriff von fremden Eigentum
-* Der Angriff ohne Erlaubnis des Angegriffenen ist eine Straftat
-* Schwachstellen werden erkannt und Betroffener wird informiert.
-* Durch Melden der schwachstellen entsteht mehrarbeit bei den 
-  betroffenen
-* Unternehmen werden gezwungen ihre Schwachstellen zu beheben, was zu 
-  sichereren Systemen oder Anwendungen führt.
-* Der Angreifer droht dem Betroffenem (Strafttat)
-* Angriffe stören evtl. den Betrieb und deren Abläufe
