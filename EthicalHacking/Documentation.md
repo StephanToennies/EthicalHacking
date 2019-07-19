@@ -144,35 +144,12 @@ einen so schlechten Ruf, dass sie ihr Hobby in aller Regeln nicht
 preisgeben.
 
 ## 3. Black Hat ist nicht gleich Black Hat
-Black Hats zeichnen sich meist durch ihre Profitgier bezüglich Angriffen aus. Manche machen das aber nur aus Spaß oder um sich zu profilieren.
-Dabei unterscheiden sich diese Angriffe fundermental von einander. Viele
-Black Hats nehmen gezielt Unternehmen ins Visier. Manche spezialisieren
-sich auf den Betrug von Zivilisten und manche bieten es als Dienstleistung an. Jeder von denen arbeit nach seinem individuellen Kodex.
-Viele Auftragshacker lehnen es ab große Persönlichkeiten zu hacken oder
-Hilfsorganisationen.
+Black Hats zeichnen sich meist durch ihre Profitgier bezüglich Angriffen aus. Manche machen das aber nur aus Spaß oder um sich zu profilieren. Dabei unterscheiden sich diese Angriffe fundermental von einander. Viele Black Hats nehmen gezielt Unternehmen ins Visier. Manche spezialisieren sich auf den Betrug von Zivilisten und manche bieten es als Dienstleistung an. Jeder von denen arbeit nach seinem individuellen Kodex. Viele Auftragshacker lehnen es ab große Persönlichkeiten zu hacken oder Hilfsorganisationen.
 
-Ein anderes unbeliebtes Ziel von Black Hats sind Krankenhäuser. An diesen
-Orten können vermeintlich Unschuldige getroffen oder schlimmstenfalls
-getötet werden. Wenn zum Beispiel ein "Crypto Trojaner" (Ein Programm,
-was den Rechner unwiederruflich Verschlüsselt und nicht mehr brauchbar
-macht) ein Krankenhaus infiziert sind diese dem Angriff aussichtslos
-ausgeliefert. Jedoch gibt es auch Black Hats, die selbst davor nicht zurückschrecken. Dies ist keine Fiktion, sondern in Deutschland passiert.
-Nicht nur ein mal. Es gibt 45 öffentlich gewordene Vorfälle in Krankenhäusern und Artzpraxen. Die meisten
-Black Hats lehnen so ein Vorgehen aber ab, dabei sind solche Opfer am
-einfachsten zu Erpressen. Diese Angriffe fanden im Zeitraum mitte 2017
-statt. Zu tragen kam ein Trojaner, dem seine Entwickler den Namen "WannaCry" gaben. Diese Angriffe wurden aber
-auch von vielen Betrügern verurteilt. Es ist zwar deren Geschäft
-Menschen zu erpressen, aber sie wollen damit in den seltensten Fällen körperlich
-Schaden.
-
-//***Hier könnte Ihr Beispiel stehen***
+Ein anderes unbeliebtes Ziel von Black Hats sind Krankenhäuser. An diesen Orten können vermeintlich Unschuldige getroffen oder schlimmstenfalls getötet werden. Wenn zum Beispiel ein "Crypto Trojaner" (Ein Programm, was den Rechner unwiederruflich Verschlüsselt und nicht mehr brauchbar macht) ein Krankenhaus infiziert sind diese dem Angriff aussichtslos ausgeliefert. Jedoch gibt es auch Black Hats, die selbst davor nicht zurückschrecken. Dies ist keine Fiktion, sondern in Deutschland passiert. Nicht nur ein mal. Es gibt 45 öffentlich gewordene Vorfälle in Krankenhäusern und Artzpraxen. Die meisten Black Hats lehnen so ein Vorgehen aber ab, dabei sind solche Opfer am einfachsten zu Erpressen. Diese Angriffe fanden im Zeitraum mitte 2017 statt. Zu tragen kam ein Trojaner, dem seine Entwickler den Namen "WannaCry" gaben. Diese Angriffe wurden aber auch von vielen Betrügern verurteilt. Es ist zwar deren Geschäft Menschen zu erpressen, aber sie wollen damit in den seltensten Fällen körperlich Schaden.
 
 ## 4. Die Beweggründe eines Grey Hats
-Die meisten Grey Hats gehen ihren Aufgaben meist als Hobby nach. Dabei werden
-diese von moralischen und ethischen Werten getrieben. Diese sind
-fundermental unterschiedlich. Deswegen kann in dieser Ausarbeitung nur
-ein Bruchteil der Ideale vermittelt werden, an die diese Menschen
-glauben.
+Die meisten Grey Hats gehen ihren Aufgaben meist als Hobby nach. Dabei werden diese von moralischen und ethischen Werten getrieben. Diese sind fundermental unterschiedlich. Deswegen kann in dieser Ausarbeitung nur ein Bruchteil der Ideale vermittelt werden, an die diese Menschen glauben.
 
 ### i Utopia: "Perfekte Sicherheit"
 
@@ -180,8 +157,7 @@ Die meisten wollen empfindliche Systeme schützen. Der Zweck ist es eine Sichere
 
 Ein gutes Beispiel ist das Stromnetz. Dieses ist in vielen Situationen unsicherer als ein alter Windows XP Rechner (sehr Unsicher). Dies hat meist Ursachen durch Nichteinhaltung der Sicherheitsbestimmungen oder lang vergessene Provisorien, die immer noch im Betrieb sind. Diese Sicherheitslücken müssen dabei nicht mutwillig entstanden sein, sondern aus einem Reflex der Überforderung kommen oder aus Zeitnot, da kleine und mittlere Kraftwerkbetreiber wie Photovoltaikanlagen oder kleinere Stadtwerke sich nicht die Kompetenz leisten können, bzw. weil Fehler schnell behoben werden müssen. Und später wird nach dem Prinzip **Never change a running system** die Provisorische Lösung so gelassen. 
 
-Solche Firmen gelten zum Beispiel als gute "Klienten",
-da diese massive Sicherheitsprobleme haben. Die Grey Hats melden gefundene Schwachstellen an die Betriebe und geben ihnen damit die Möglichkeit die Fehler zu beheben, bevor jemand diese Schwachstelle ausnutzen kann um Schaden zu verursachen. Da Unternehmen aber in der Regel entweder nicht die Zeit, Lust, Kompetenz oder Motivation haben noch mehr Geld in den Schutz zu stecken und diese Fehler zu beheben, gehen viele Grey Hats dazu über ihnen Ultimaten zu stellen, bevor diese Schwachstellen veröffentlicht werden.
+Solche Firmen gelten zum Beispiel als gute "Klienten", da diese massive Sicherheitsprobleme haben. Die Grey Hats melden gefundene Schwachstellen an die Betriebe und geben ihnen damit die Möglichkeit die Fehler zu beheben, bevor jemand diese Schwachstelle ausnutzen kann um Schaden zu verursachen. Da Unternehmen aber in der Regel entweder nicht die Zeit, Lust, Kompetenz oder Motivation haben noch mehr Geld in den Schutz zu stecken und diese Fehler zu beheben, gehen viele Grey Hats dazu über ihnen Ultimaten zu stellen, bevor diese Schwachstellen veröffentlicht werden.
 
 Das Problem bei der ganzen Sache bleibt aber immer noch, dass selbst bei der
 Veröffentlichung und der eventuellen Erpressung dieser Unternehmen, diese ihre
@@ -233,8 +209,6 @@ Dieser Eindruck entsteht wahrscheinlich, da das Schadensausmaß bei Privatperson
 Grundlegend ist zu sagen, dass all diese Aktionen das Ziel haben, die Kommunikation des Angegriffenen zu beschränken oder zu behindern. Ein materieller Schaden des Angegriffen ist dabei nicht zwangsläufig gewünscht.
 
 Ein Beispiel ist das Vergleichen eines Konzerns mit einem Einfamilienhaus. In dem Vortrag wurde angemerkt, dass ein solcher Vergleich nicht korrekt sei, da ein Multimillionenkonzern nicht die gleichen Rechte und Emotionen habe. Tatsächlich arbeiten in dem Konzern mehrere Menschen, die sich mit den Themen auseinandersetzten müssen. Wenn in einem Einfamilienhaus eingebrochen wird, fühlt sich der Besitzter in seinem eigentlichen Haus nicht mehr sicher und führtet sich. Wenn in einem Unternehmen eingebrochen wird geht in der Sicherheitsapteilung und der Managmentetage der Puls hoch. Ihnen ist zwar klar, dass es keine perfekte Sicherheit gibt. Sie haben andere Probleme und Ängste als der Besitzter des Einfamilienhaus. Doch müssen die Mangager versuchen ein solchen einbruch zu verhindern. Sie haben angst, dass ihre Kunden, Zulieferer und andere Stakeholder davon mitbekommen oder bei einem Veröffentlichen abspringen. Diese Mitarbeiter haben durch den Einbruch ebenfalls Überlebensängste. Beim dem Hausbesitzter ist es, dass der im Schlaf von Räubern umgebracht wird. Die Mitarbeiter des Unternehmens haben angst, dass ihr Unternehmen an so einer Aicherheitslücke zerbricht. Dabei ist nicht das Existieren der Sicherheitslücke das Broblem, sonder das Bewusstsein, dass diese Sicherheitslücke existiert. Beide Haben angst. Konzern und Hausbesitzer.
- 
-//***Hier könnte Ihr Beispiel stehen***
 
 ## XX-1 Fazit
 
